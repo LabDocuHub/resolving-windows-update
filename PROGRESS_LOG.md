@@ -28,3 +28,6 @@ Troubleshooting Order	Action to Take
 Step 1: The Basic Restart	Completely shut down the PC, wait 10 seconds, and turn it back on.	This cleanly kills any temporary background installation bottlenecks.
 Step 2: Check Task Manager	Press Ctrl + Shift + Esc, go to the Performance tab, and monitor Disk / Network activity.	This tells you if the update is actually frozen or just silently extracting heavy files.
 Step 3: Run the Built-In Fix	Go to Settings → System → Recovery and click "Fix problems using Windows Update."	This automated tool safely cleans out background loops without making you manually type code.
+
+**Back to README.md**  
+https://github.com/LabDocuHub/resolving-windows-update/blob/main/README.md
