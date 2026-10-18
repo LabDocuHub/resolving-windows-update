@@ -3,7 +3,7 @@
   **What I Did**  
   Attempted standard Windows update.  
   Clicked on "Retry" button after restarting computer  
-  Result: Back to same "Retry" button. See Issue #1
+  Result: Back to same "Retry" button. See Issue [#1](https://github.com/LabDocuHub/resolving-windows-update/issues/1)
   
 **What I Learned**  
 
