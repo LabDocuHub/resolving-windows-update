@@ -8,16 +8,10 @@ Windows Update continually resulted in "Retry" prompt.
 Use automated tool to safely clean out the background loops without making you manually type code  
 
 **Deep Dive/Full RCA:** See the complete architechtural breakdown and debugging log in GitHub Issues:  
-https://github.com/LabDocuHub/resolving-windows-update/issues/1
-https://github.com/LabDocuHub/resolving-windows-update/issues/2
 
+**Issue 1:** https://github.com/LabDocuHub/resolving-windows-update/issues/1  
 
-
-
-
-
-
-
+**Issue 2:** https://github.com/LabDocuHub/resolving-windows-update/issues/2  
 
 
 *Back to README.md**  
