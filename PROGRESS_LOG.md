@@ -3,7 +3,9 @@
   **What I Did**  
   Attempted standard Windows update.  
   Clicked on "Retry" button after restarting computer  
-  Result: Back to same "Retry" button. See Issue [#1](https://github.com/LabDocuHub/resolving-windows-update/issues/1)
+  Result: Back to same "Retry" button. See Issue [#1](https://github.com/LabDocuHub/resolving-windows-update/issues/1)  
+
+  Next step: Check for Updates... Expecting to say 'Download and Install,' but instead it says, "Retry"  
   
 **What I Learned**  
 
